@@ -1,2 +1,3 @@
-# fonte-de-informa-o-e-banco-de-dados
+# fonte-de-informação-e-banco-de-dados
 Disciplina ministrada no primeiro semestre CST GPI
+## Apresentação em equipe ultilizando software de design gráfico 
