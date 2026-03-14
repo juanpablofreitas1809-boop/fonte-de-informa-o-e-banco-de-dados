@@ -16,6 +16,11 @@ https://github.com/juanpablofreitas1809-boop/fonte-de-informa-o-e-banco-de-dados
 ##
  
 ## Dedução de despesas da prefeitura de São José dos Campos
+pegamos dados da planilha de despesas do portal de transparencia da cidade de São José dos Campos e processamos os dados. 
+# comandos ultilizados
+
+-=SOMASSE. o comando como é auto-explicativo, sua principal função é efetuar a soma de itens.
+-=CONT.SE
 
 https://github.com/juanpablofreitas1809-boop/fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsx
 https://github.com/juanpablofreitas1809-boop/fonte-de-informa-o-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20220924.png
