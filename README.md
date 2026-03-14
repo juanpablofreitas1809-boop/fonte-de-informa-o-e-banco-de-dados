@@ -12,3 +12,8 @@ https://github.com/juanpablofreitas1809-boop/fonte-de-informa-o-e-banco-de-dados
 Após essa introdução, realizamos uma dinâmica chamada “1 verdade e 2 mentiras”, na qual uma pessoa apresenta três afirmações sobre si mesma, sendo uma verdadeira e duas falsas, enquanto os colegas tentam adivinhar qual delas é a verdade. As frases apresentadas foram: “Eu já trai duas vezes no mesmo ano”, “Eu já quebrei os dois braços” e “Eu recusei uma oferta para jogar no Corinthians”. Ao final da dinâmica, foi revelado que a afirmação verdadeira era “Eu já quebrei os dois braços”. A atividade teve como objetivo tornar a apresentação mais divertida, promover a interação entre a turma e criar um ambiente mais descontraído para que todos pudessem se conhecer melhor.
 
 https://github.com/juanpablofreitas1809-boop/fonte-de-informa-o-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20204221.png
+ 
+## Dedução de despesas da prefeitura de São José dos Campos
+
+https://github.com/juanpablofreitas1809-boop/fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsx
+
